@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI Design</string>
+    <string name="middle_txt">Fear can become an habit,but you can fight the hebit and win,With the Anxiety Antidote.</string>
+    <string name="do_something">Do something social today,like if you find this podcast helpfull and help others get better experience too</string>
+    <string name="title_activity_detail">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
